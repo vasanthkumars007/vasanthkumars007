@@ -1,7 +1,7 @@
 <!-- Animated Banner -->
 <img src="https://github.com/vasanthkumars007/vasanthkumars007/blob/main/banner.gif" alt="Banner" style="width:100%;"/>
 
-<h1 align="center">Hi 👋, I'm Vasanth Kumar</h1>
+<h1 align="center">Hi 👋, I'm VasanthKumar</h1>
 <h3 align="center">💻 Software Developer | 🤖 AI Enthusiast | 🚀 Lifelong Learner</h3>
 
 ---
