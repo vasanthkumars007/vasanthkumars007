@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<p align="center">
-  <img src="https://github.com/vasanthgithub/metrics/blob/master/metrics.svg" alt="GitHub Metrics" />
-</p>
+
+ ![Metrics](https://raw.githubusercontent.com/vasanthgithub/vasanthgithub/master/github-metrics.svg)
+
 
 
