@@ -26,10 +26,9 @@
 
 ### 📊 GitHub Metrics
 
-<!-- GitHub Metrics SVG -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vasanthkumars007/vasanthkumars007/main/github-metrics.svg" alt="Metrics" width="90%">
-</p>
+
+  <img src="https://raw.githubusercontent.com/vasanthkumars007/vasanthkumars007/main/github-metrics.svg" alt="Metrics" width="100%" />
+
 
 ---
 
