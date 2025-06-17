@@ -24,10 +24,16 @@
 
 ---
 
-### 📊 GitHub Metrics
 
+<details open>
+<summary><b>📊 GitHub Metrics</b></summary>
 
-  <img src="https://raw.githubusercontent.com/vasanthkumars007/vasanthkumars007/main/github-metrics.svg" alt="Metrics" width="100%" />
+<p align="center">
+  <img src="./github-metrics.svg" width="90%">
+</p>
+
+</details>
+
 
 
 ---
