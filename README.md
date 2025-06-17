@@ -25,25 +25,25 @@
 ---
 
 
-<details open>
-<summary><b>📊 GitHub Metrics</b></summary>
+## 📊 GitHub Metrics
 
-<p align="center">
-  <img src="./github-metrics.svg" width="90%">
-</p>
+### 🧪 Languages
+<img src="metrics.languages.svg" width="90%" alt="Languages Used" />
 
-</details>
+### 🧠 Coding Habits
+<img src="metrics.habits.svg" width="90%" alt="Coding Habits" />
 
+### 🔁 Follow-ups (Issues, PRs, Comments)
+<img src="metrics.followup.svg" width="90%" alt="Follow-up on PRs/Issues" />
 
+### 💬 Comment Reactions
+<img src="metrics.reactions.svg" width="90%" alt="Comment Reactions" />
 
----
+### 🕓 Recent Activity
+<img src="metrics.activity.svg" width="90%" alt="Recent Activity Timeline" />
 
-### 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vasanthkumars007&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com/?user=vasanthkumars007&theme=tokyonight" />
-</p>
+### 📆 Yearly Contributions
+<img src="metrics.isocalendar.svg" width="90%" alt="Yearly GitHub Contributions Calendar" />
 
 ---
 
