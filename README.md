@@ -1,20 +1,58 @@
-## Hi there 👋
+<!-- Animated Banner -->
+<img src="https://github.com/vasanthkumars007/vasanthkumars007/blob/main/banner.gif" alt="Banner" style="width:100%;"/>
 
+<h1 align="center">Hi 👋, I'm Vasanth Kumar</h1>
+<h3 align="center">💻 Software Developer | 🤖 AI Enthusiast | 🚀 Lifelong Learner</h3>
 
-**vasanthkumars007/vasanthkumars007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔍 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🛠️ I'm passionate about building intelligent systems and backend infrastructure  
+- 🤖 Currently exploring AI + FastAPI integrations  
+- 🔭 Working on: `Legal AI Assistant`, `Portfolio Optimization`, `Machine Learning Projects`  
+- 🌱 Learning: FastAPI, LangChain, TinyLlama, React & Tailwind  
+- 📫 Reach me at: **vasanthkumars007@gmail.com**
 
-![Metrics](https://github.com/vasanthkumars007/metrics/blob/master/metrics.svg)
+---
 
+### 🚀 Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,tailwind,git,github,vscode,linux,js,html,css,postgres,mysql" />
+</p>
 
+---
+
+### 📊 GitHub Metrics
+
+<!-- GitHub Metrics SVG -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vasanthkumars007/vasanthkumars007/main/github-metrics.svg" alt="Metrics" width="90%">
+</p>
+
+---
+
+### 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vasanthkumars007&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=vasanthkumars007&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:vasanthkumars007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vasanthkumars007"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+### 👁️ Visitors Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vasanthkumars007&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
