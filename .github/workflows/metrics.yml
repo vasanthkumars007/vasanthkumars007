@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  metrics_languages:
+  github-metrics-languages:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
@@ -15,12 +15,14 @@ jobs:
           filename: metrics.languages.svg
           output_action: commit
           config_order: base.header, languages
+
           plugin_languages: yes
-          plugin_languages_ignored: html, css
+          plugin_languages_ignored: >-
+            html, css
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
 
-  metrics_habits:
+  github-metrics-habits:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
@@ -31,11 +33,12 @@ jobs:
           filename: metrics.habits.svg
           output_action: commit
           config_order: habits
+
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_facts: yes
 
-  metrics_followup:
+  github-metrics-followup:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
@@ -46,9 +49,10 @@ jobs:
           filename: metrics.followup.svg
           output_action: commit
           config_order: followup
+
           plugin_followup: yes
 
-  metrics_reactions:
+  github-metrics-reactions:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
@@ -59,11 +63,12 @@ jobs:
           filename: metrics.reactions.svg
           output_action: commit
           config_order: reactions
+
           plugin_reactions: yes
           plugin_reactions_limit: 200
           plugin_reactions_details: count, percentage
 
-  metrics_activity:
+  github-metrics-activity:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
@@ -74,12 +79,13 @@ jobs:
           filename: metrics.activity.svg
           output_action: commit
           config_order: activity
+
           plugin_activity: yes
           plugin_activity_limit: 7
           plugin_activity_days: 14
           plugin_activity_filter: all
 
-  metrics_isocalendar:
+  github-metrics-isocalendar:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
@@ -90,5 +96,6 @@ jobs:
           filename: metrics.isocalendar.svg
           output_action: commit
           config_order: isocalendar
+
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
