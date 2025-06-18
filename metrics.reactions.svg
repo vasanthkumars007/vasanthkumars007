@@ -7,6 +7,134 @@
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
             <section>
+                <h2 class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v5.5a.25.25 0 01-.25.25h-3.5a.75.75 0 00-.53.22L3.5 11.44V9.25a.75.75 0 00-.75-.75h-1a.25.25 0 01-.25-.25v-5.5zM1.75 1A1.75 1.75 0 000 2.75v5.5C0 9.216.784 10 1.75 10H2v1.543a1.457 1.457 0 002.487 1.03L7.061 10h3.189A1.75 1.75 0 0012 8.25v-5.5A1.75 1.75 0 0010.25 1h-8.5zM14.5 4.75a.25.25 0 00-.25-.25h-.5a.75.75 0 110-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0114.25 12H14v1.543a1.457 1.457 0 01-2.487 1.03L9.22 12.28a.75.75 0 111.06-1.06l2.22 2.22v-2.19a.75.75 0 01.75-.75h1a.25.25 0 00.25-.25v-5.5z"/>
+                    </svg>
+                    Overall users reactions from last 3 comments
+                </h2>
+                <div class="row">
+                    <section>
+                        <div class="row fill-width">
+                            <section class="categories">
+                                <div class="category column">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
+                                        <circle class="gauge-base" r="53" cx="60" cy="60"/>
+                                        <text x="60" y="60" dominant-baseline="central">❤️</text>
+                                    </svg>
+                                    <span class="title nowrap">
+                                        0
+                                        <small>
+                                            (0
+                                            <small>%</small>
+                                            )
+                                        </small>
+                                    </span>
+                                </div>
+                                <div class="category column">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
+                                        <circle class="gauge-base" r="53" cx="60" cy="60"/>
+                                        <text x="60" y="60" dominant-baseline="central">👍</text>
+                                    </svg>
+                                    <span class="title nowrap">
+                                        0
+                                        <small>
+                                            (0
+                                            <small>%</small>
+                                            )
+                                        </small>
+                                    </span>
+                                </div>
+                                <div class="category column">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
+                                        <circle class="gauge-base" r="53" cx="60" cy="60"/>
+                                        <text x="60" y="60" dominant-baseline="central">👎</text>
+                                    </svg>
+                                    <span class="title nowrap">
+                                        0
+                                        <small>
+                                            (0
+                                            <small>%</small>
+                                            )
+                                        </small>
+                                    </span>
+                                </div>
+                                <div class="category column">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
+                                        <circle class="gauge-base" r="53" cx="60" cy="60"/>
+                                        <text x="60" y="60" dominant-baseline="central">😄</text>
+                                    </svg>
+                                    <span class="title nowrap">
+                                        0
+                                        <small>
+                                            (0
+                                            <small>%</small>
+                                            )
+                                        </small>
+                                    </span>
+                                </div>
+                                <div class="category column">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
+                                        <circle class="gauge-base" r="53" cx="60" cy="60"/>
+                                        <text x="60" y="60" dominant-baseline="central">😕</text>
+                                    </svg>
+                                    <span class="title nowrap">
+                                        0
+                                        <small>
+                                            (0
+                                            <small>%</small>
+                                            )
+                                        </small>
+                                    </span>
+                                </div>
+                                <div class="category column">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
+                                        <circle class="gauge-base" r="53" cx="60" cy="60"/>
+                                        <text x="60" y="60" dominant-baseline="central">👀</text>
+                                    </svg>
+                                    <span class="title nowrap">
+                                        0
+                                        <small>
+                                            (0
+                                            <small>%</small>
+                                            )
+                                        </small>
+                                    </span>
+                                </div>
+                                <div class="category column">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
+                                        <circle class="gauge-base" r="53" cx="60" cy="60"/>
+                                        <text x="60" y="60" dominant-baseline="central">🚀</text>
+                                    </svg>
+                                    <span class="title nowrap">
+                                        0
+                                        <small>
+                                            (0
+                                            <small>%</small>
+                                            )
+                                        </small>
+                                    </span>
+                                </div>
+                                <div class="category column">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
+                                        <circle class="gauge-base" r="53" cx="60" cy="60"/>
+                                        <text x="60" y="60" dominant-baseline="central">🎉</text>
+                                    </svg>
+                                    <span class="title nowrap">
+                                        0
+                                        <small>
+                                            (0
+                                            <small>%</small>
+                                            )
+                                        </small>
+                                    </span>
+                                </div>
+                            </section>
+                        </div>
+                    </section>
+                </div>
+            </section>
+            <section>
                 <h1 class="field">
                     <img class="avatar" src="data:image/jpg;base64,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Gtz6kk95JJPqrtdjj4vpY4r+mzjr21iBERbDMREQEREBERAREQEREFWojUUCiIikEREBERAREQEREBERAREQEREETuEkdv4uaGr3+4JZJaMu83s5APnKV0/SHt7Jjv7Ixn0BC5Z4qCWlstDd6ZoM9rrYaoA9+DgD5kLdupL61nCjVFxt9RgOtUtTSzRn9+I8jwfVhXlOq49Zt/tz80attINFapsl8p5YLTdqSulpDiYU0wkLMk4Jx3dd+my540g0VWqtb3Ob3quS9VEXak5eGB5IYD3DcfIeAWJ0bpu4W23Wa+aUu8lmuslCI5nCISNlY/3tw708ejMYIUp0nY2aftXsntDqmaWV81RO7rJI/GTuT3Ad/n1WxwODbHli8+tLMWKd7lmkRF6JuCIikEREBERAREQEREBERAREQVaiNRQKIiKQREQEREBERAREQEREBERAREQW1yooLjb6miqATBPGY3YO4BHd5qFPg1udJfyJIpTZi5sf6SD8SCAODhHjmz1A2x0HLnG6nyLUz8WmeYm3wrtji3t5UdOyjpKemgGIoY2xNHgGjA+gXqiLZrEVjULBERZAiIgIiICIiAiIgIiICIiAiIgq1EaigUREUgiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiIKtRGooDCYREDCYREDCYREDCYREDCYREDCYREDCYREDCYREDCYREDCYREDCYREDCYREDCYREDCYREDCYREDCYREDCYREDCYREDCIiD/2Q==" width="20" height="20" />
                     <span>Vasanthkumar S</span>
@@ -43,7 +171,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +197,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            84 Commits
+                            93 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -204,137 +332,9 @@
                     </section>
                 </div>
             </section>
-            <section>
-                <h2 class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v5.5a.25.25 0 01-.25.25h-3.5a.75.75 0 00-.53.22L3.5 11.44V9.25a.75.75 0 00-.75-.75h-1a.25.25 0 01-.25-.25v-5.5zM1.75 1A1.75 1.75 0 000 2.75v5.5C0 9.216.784 10 1.75 10H2v1.543a1.457 1.457 0 002.487 1.03L7.061 10h3.189A1.75 1.75 0 0012 8.25v-5.5A1.75 1.75 0 0010.25 1h-8.5zM14.5 4.75a.25.25 0 00-.25-.25h-.5a.75.75 0 110-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0114.25 12H14v1.543a1.457 1.457 0 01-2.487 1.03L9.22 12.28a.75.75 0 111.06-1.06l2.22 2.22v-2.19a.75.75 0 01.75-.75h1a.25.25 0 00.25-.25v-5.5z"/>
-                    </svg>
-                    Overall users reactions from last 3 comments
-                </h2>
-                <div class="row">
-                    <section>
-                        <div class="row fill-width">
-                            <section class="categories">
-                                <div class="category column">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
-                                        <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <text x="60" y="60" dominant-baseline="central">❤️</text>
-                                    </svg>
-                                    <span class="title nowrap">
-                                        0
-                                        <small>
-                                            (0
-                                            <small>%</small>
-                                            )
-                                        </small>
-                                    </span>
-                                </div>
-                                <div class="category column">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
-                                        <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <text x="60" y="60" dominant-baseline="central">👍</text>
-                                    </svg>
-                                    <span class="title nowrap">
-                                        0
-                                        <small>
-                                            (0
-                                            <small>%</small>
-                                            )
-                                        </small>
-                                    </span>
-                                </div>
-                                <div class="category column">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
-                                        <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <text x="60" y="60" dominant-baseline="central">👎</text>
-                                    </svg>
-                                    <span class="title nowrap">
-                                        0
-                                        <small>
-                                            (0
-                                            <small>%</small>
-                                            )
-                                        </small>
-                                    </span>
-                                </div>
-                                <div class="category column">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
-                                        <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <text x="60" y="60" dominant-baseline="central">😄</text>
-                                    </svg>
-                                    <span class="title nowrap">
-                                        0
-                                        <small>
-                                            (0
-                                            <small>%</small>
-                                            )
-                                        </small>
-                                    </span>
-                                </div>
-                                <div class="category column">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
-                                        <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <text x="60" y="60" dominant-baseline="central">😕</text>
-                                    </svg>
-                                    <span class="title nowrap">
-                                        0
-                                        <small>
-                                            (0
-                                            <small>%</small>
-                                            )
-                                        </small>
-                                    </span>
-                                </div>
-                                <div class="category column">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
-                                        <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <text x="60" y="60" dominant-baseline="central">👀</text>
-                                    </svg>
-                                    <span class="title nowrap">
-                                        0
-                                        <small>
-                                            (0
-                                            <small>%</small>
-                                            )
-                                        </small>
-                                    </span>
-                                </div>
-                                <div class="category column">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
-                                        <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <text x="60" y="60" dominant-baseline="central">🚀</text>
-                                    </svg>
-                                    <span class="title nowrap">
-                                        0
-                                        <small>
-                                            (0
-                                            <small>%</small>
-                                            )
-                                        </small>
-                                    </span>
-                                </div>
-                                <div class="category column">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
-                                        <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <text x="60" y="60" dominant-baseline="central">🎉</text>
-                                    </svg>
-                                    <span class="title nowrap">
-                                        0
-                                        <small>
-                                            (0
-                                            <small>%</small>
-                                            )
-                                        </small>
-                                    </span>
-                                </div>
-                            </section>
-                        </div>
-                    </section>
-                </div>
-            </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jun 2025, 06:47:43  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Jun 2025, 06:55:57  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
