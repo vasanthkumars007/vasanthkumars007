@@ -24,26 +24,14 @@
 
 ---
 
+### 🔥 My GitHub Stats
 
-## 📊 GitHub Metrics
-
-### 🧪 Languages
-<img src="metrics.languages.svg" width="90%" alt="Languages Used" />
-
-### 🧠 Coding Habits
-<img src="metrics.habits.svg" width="90%" alt="Coding Habits" />
-
-### 🔁 Follow-ups (Issues, PRs, Comments)
-<img src="metrics.followup.svg" width="90%" alt="Follow-up on PRs/Issues" />
-
-### 💬 Comment Reactions
-<img src="metrics.reactions.svg" width="90%" alt="Comment Reactions" />
-
-### 🕓 Recent Activity
-<img src="metrics.activity.svg" width="90%" alt="Recent Activity Timeline" />
-
-### 📆 Yearly Contributions
-<img src="metrics.isocalendar.svg" width="90%" alt="Yearly GitHub Contributions Calendar" />
+![Languages](./metrics.languages.svg)
+![Coding Habits](./metrics.habits.svg)
+![PR & Issue Follow-Up](./metrics.followup.svg)
+![Comment Reactions](./metrics.reactions.svg)
+![Recent Activity](./metrics.activity.svg)
+![Yearly Contributions](./metrics.isocalendar.svg)
 
 ---
 
