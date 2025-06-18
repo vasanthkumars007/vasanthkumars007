@@ -11,5 +11,11 @@ jobs:
         with:
           user: vasanthkumars007
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.isocalendar.svg
+
+          # required so it knows to push output back
+          output_action: commit
+
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
