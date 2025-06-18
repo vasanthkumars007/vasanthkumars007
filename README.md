@@ -24,14 +24,13 @@
 
 ---
 
-### 🔥 My GitHub Stats
-
 ![Languages](./metrics.languages.svg)
-![Coding Habits](./metrics.habits.svg)
-![PR & Issue Follow-Up](./metrics.followup.svg)
-![Comment Reactions](./metrics.reactions.svg)
-![Recent Activity](./metrics.activity.svg)
-![Yearly Contributions](./metrics.isocalendar.svg)
+![Habits](./metrics.habits.svg)
+![Follow-up](./metrics.followup.svg)
+![Reactions](./metrics.reactions.svg)
+![Activity](./metrics.activity.svg)
+![Isocalendar](./metrics.isocalendar.svg)
+
 
 ---
 
