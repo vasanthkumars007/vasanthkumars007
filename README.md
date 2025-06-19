@@ -48,3 +48,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vasanthkumars007&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+<img src="https://github.com/vasanthkumars007/vasanthkumars007/blob/main/snake.svg" alt="Banner" style="width:100%;"/>
