@@ -24,12 +24,8 @@
 
 ---
 
-![Languages](./metrics.languages.svg)
-![Habits](./metrics.habits.svg)
-![Follow-up](./metrics.followup.svg)
-![Reactions](./metrics.reactions.svg)
-![Activity](./metrics.activity.svg)
-![Isocalendar](./metrics.isocalendar.svg)
+![GitHub Metrics](./github-metrics.svg)
+
 
 
 ---
