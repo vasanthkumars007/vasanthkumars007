@@ -105,5 +105,5 @@ My work lives at the intersection of **software engineering** and **artificial i
   <sub>Built with 💡 by Vasanth Kumar • Last updated: 2025</sub>
 </p>
 
-> 🌓 Best viewed in GitHub **[dark theme](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-featured-items-on-your-profile)** for full visual experience.
+
 
