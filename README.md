@@ -76,35 +76,22 @@ My work lives at the intersection of **software engineering** and **artificial i
 ### 📊 GitHub Metrics
 
 #### 🧠 Languages
-<p align="center">
-  <img src="./metrics.languages.svg" alt="Languages" />
-</p>
+![Languages](./metrics.languages.svg)
 
 #### ⏱️ Coding Habits
-<p align="center">
-  <img src="./metrics.habits.svg" alt="Habits" />
-</p>
+![Habits](./metrics.habits.svg)
 
 #### 📦 PRs & Issue Follow-ups
-<p align="center">
-  <img src="./metrics.followup.svg" alt="Follow-up" />
-</p>
+![Follow-up](./metrics.followup.svg)
 
 #### 💬 Reactions
-<p align="center">
-  <img src="./metrics.reactions.svg" alt="Reactions" />
-</p>
+![Reactions](./metrics.reactions.svg)
 
 #### 🕒 Recent Activity
-<p align="center">
-  <img src="./metrics.activity.svg" alt="Activity" />
-</p>
+![Activity](./metrics.activity.svg)
 
 #### 📆 Yearly Contributions
-<p align="center">
-  <img src="./metrics.isocalendar.svg" alt="Isometric Calendar" />
-</p>
-
+![Isometric Calendar](./metrics.isocalendar.svg)
 
 ---
 
