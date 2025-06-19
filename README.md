@@ -1,10 +1,11 @@
-<!-- Animated Banner -->
+<!-- 🖼️ Animated Banner -->
 <p align="center">
   <img src="https://github.com/vasanthkumars007/vasanthkumars007/blob/main/banner.gif" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm VasanthKumar</h1>
 <h3 align="center">💻 Software Developer | 🤖 AI Enthusiast | 🚀 Lifelong Learner</h3>
+<h3 align="center"><i>“Turning AI ideas into real-world impact.”</i></h3>
 
 ---
 
@@ -22,7 +23,6 @@ My work lives at the intersection of **software engineering** and **artificial i
 - 📫 Reach me anytime: [vasanthkumars.dev@gmail.com](mailto:vasanthkumars.dev@gmail.com)
 
 ---
-
 
 ### 🚀 Tech Stack
 
@@ -53,6 +53,23 @@ My work lives at the intersection of **software engineering** and **artificial i
   <img src="https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
+---
+
+### 🌐 Let’s Connect
+
+> *Whether it’s AI, backend systems, or cool side projects — I’m always up for a good conversation.*
+
+<p align="center">
+  <a href="mailto:vasanthkumars.dev@gmail.com" title="Email me">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vasanthkumars007/" title="Connect on LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://vasanthkumars.vercel.app/" title="Visit my portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -78,15 +95,12 @@ My work lives at the intersection of **software engineering** and **artificial i
 
 ---
 
-### 🌐 Connect With Me
-
 <p align="center">
-  <a href="mailto:vasanthkumars007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/vasanthkumars007"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://github.com/vasanthkumars007/vasanthkumars007/blob/main/snake.svg" alt="Contribution Snake" width="100%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/vasanthkumars007/vasanthkumars007/blob/main/snake.svg" alt="Contribution Snake" width="100%" />
+  <sub>Built with 💡 by Vasanth Kumar • Last updated: 2025</sub>
 </p>
