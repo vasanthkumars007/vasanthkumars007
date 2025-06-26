@@ -105,5 +105,11 @@ My work lives at the intersection of **software engineering** and **artificial i
   <sub>Built with 💡 by Vasanth Kumar • Last updated: 2025</sub>
 </p>
 
+---
+
+⚠️ **Notice:** This profile README is custom-designed by [VasanthkumarS](https://github.com/vasanthkumarS).  
+Do not copy, clone, or reuse this design without permission.  
+Licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/).
+
 
 
