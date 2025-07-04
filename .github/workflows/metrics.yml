@@ -3,7 +3,7 @@ name: GitHub Metrics
 on:
   workflow_dispatch:  # Run manually
   schedule:
-    - cron: "0 0 * * *"  # Daily at midnight
+    - cron: "0 0 * * 1,4"  # Every monday and Thursday
 
 jobs:
   github-metrics:
