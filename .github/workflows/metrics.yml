@@ -1,16 +1,29 @@
 name: GitHub Metrics
 
 on:
-  workflow_dispatch:  # Run manually
+  workflow_dispatch:    # Manual run
   schedule:
-    - cron: "0 0 * * 1,4"  # Every monday and Thursday
+    - cron: "0 0 * * *"   # Run daily at 00:00 UTC (05:30 AM IST)
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+      # Checkout repo
+      - uses: actions/checkout@v3
 
-      # 1️⃣ Languages (with base header)
+      # 🔀 Random skip: only run ~3 days/week
+      - name: Random skip
+        run: |
+          roll=$(( RANDOM % 7 ))   # Random number between 0-6
+          echo "🎲 Roll = $roll"
+          if [ $roll -gt 2 ]; then
+            echo "⏩ Skipping today (no metrics update)"
+            exit 0
+          fi
+          echo "✅ Running today"
+
+      # 1️⃣ Languages
       - name: Languages
         uses: lowlighter/metrics@latest
         with:
@@ -39,7 +52,7 @@ jobs:
           plugin_habits_charts: yes
           plugin_habits_facts: yes
 
-      # 3️⃣ Follow-up (PRs, issues, etc.)
+      # 3️⃣ Follow-up
       - name: Follow-up
         uses: lowlighter/metrics@latest
         with:
@@ -80,7 +93,7 @@ jobs:
           plugin_activity_days: 14
           plugin_activity_filter: all
 
-      # 6️⃣ Yearly Contributions (Isometric Calendar)
+      # 6️⃣ Contributions Calendar
       - name: Contributions Calendar
         uses: lowlighter/metrics@latest
         with:
@@ -92,3 +105,13 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+
+      # 🔀 7️⃣ Extra random commit (for darker contribution color)
+      - name: Add random commit
+        run: |
+          echo "$(date) random update" >> random-log.txt
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add random-log.txt
+          git commit -m "chore: random activity"
+          git push
