@@ -17,7 +17,7 @@ jobs:
         run: |
           roll=$(( RANDOM % 7 ))   # Random number between 0-6
           echo "🎲 Roll = $roll"
-          if [ $roll -gt 2 ]; then
+          if [ $roll -gt 3 ]; then
             echo "⏩ Skipping today (no metrics update)"
             exit 0
           fi
