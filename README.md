@@ -78,9 +78,6 @@ I’m **Vasanth Kumar**, a developer who thrives at the intersection of
 ### 🧠 Languages
 ![Languages](./metrics.languages.svg)
 
-### ⏱️ Coding Habits
-![Habits](./metrics.habits.svg)
-
 ### 📦 PRs & Issue Follow-ups
 ![Follow-up](./metrics.followup.svg)
 
