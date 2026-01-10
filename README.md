@@ -84,8 +84,6 @@ I’m **Vasanth Kumar**, a developer who thrives at the intersection of
 ### 💬 Reactions
 ![Reactions](./metrics.reactions.svg)
 
-### 🕒 Recent Activity
-![Activity](./metrics.activity.svg)
 
 ### 📆 Yearly Contributions
 ![Isometric Calendar](./metrics.isocalendar.svg)
